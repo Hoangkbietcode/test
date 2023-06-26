@@ -3,3 +3,6 @@ Day la bai 1 nha
 Day la sau khi sua lan 1 ne
 
 //phan sau se do Hoang 1 lam tiep nha
+
+Ok Hoàng sẽ làm tiếp bài 1 này nha...
+Sau khi làm bài 1 này xong rồi Hoàng 1 sẽ add thêm 1 file vào project này xong sẽ push lên github nè
